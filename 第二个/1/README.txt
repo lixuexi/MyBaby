@@ -1,5 +1,1 @@
-ÕâÀï£¬ÒªÐÞ¸ÄµÄµØ·½Ö÷ÒªÓÐ£º
-1.Ê±¼ä£ºÇëÐÞ¸Äindex.html,µÚ63ÐÐ£¬setfullyearÉèÖÃÄêÔÂÈÕ£¬È»ºóÉèÖÃÊ±£¬·Ö£¬Ãë£¬ÕâÀïÉèÖÃµÄÊÇÔÚÒ»ÆðµÄ¿ªÊ¼Ê±¼ä£¬³ÌÐò»á×Ô¶¯¼ÆËã¼ºÓÐ¶à³¤Ê±¼ä¡£
-2.ÐÞ¸ÄÄãÒª±í°×ËµµÄ»°£¬ÇëÐÞ¸Äindex.htmlµÚ22ÐÐ¿ªÊ¼¡£
-3.Ô´ÂëÀïµÄconfig.yamlºÍindex.php¶¼ÎÞÓÃ£¬ÊÇÐÂÀË×ÔÐÐ²úÉúµÄÎÄ¼þ£¬¿ÉÒÔÉ¾³ý
-#ffe
+ä¹ˆä¹ˆå“’
